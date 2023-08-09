@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/20.11.4/miui_PYXIS_20.11.4_d4997c3d1f_10.0.zip
+  ROM_URL: https://debk1q95drmes1rd5o4q7ibfb616m3vpbodkahta2v3p3rhtpt2fua3l.qc.dolfincdnx.net:24660/xdispatch248f46eb6f1f704e/bigota.d.miui.com/20.6.17/miui_MI6X_20.6.17_f4bf514fcf_9.0.zip?BSLuBan=eyJob3N0IjoiYmlnb3RhLmQubWl1aS5jb20iLCJic3JlcWlkIjoiYmJkZmU2YmEzMWYzNmIzZjEzNzE3Y2YyMmFmYjU1YmQiLCJjYWNoZV9rZXkiOiJcLzIwLjYuMTdcL21pdWlfTUk2WF8yMC42LjE3X2Y0YmY1MTRmY2ZfOS4wLnppcCIsImRuc19ob3N0IjoicGYwMDMudi5ic2dzbGIuY24iLCJrZXkiOiJjZWZlYzA0MjJjODZmNmE0OTJiOGZkZDEyOTA1MTYzOSIsInRzIjoxNjkxNTczOTgxfQ==
   ROM_NAME: MIUI
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
